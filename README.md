@@ -32,6 +32,12 @@ Then run:
 flutter pub get
 ```
 
+Import the package:
+
+```dart
+import 'package:flutter_easy_routing/flutter_easy_routing.dart';
+```
+
 ## Basic Usage
 
 ### Setup
