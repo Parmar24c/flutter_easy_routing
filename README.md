@@ -191,7 +191,7 @@ context.pushNamed(detailsRoute);
 ```
 
 <p align="center">
-  🌟 Love this project? Give it a ⭐ on GitHub & show some 💖 — your support means everything!
+  🌟 Love this package? Give it a ⭐ on GitHub & show some 💖 — your support means everything!
   <br>
   ~ 👤 Nayan Parmar
 </p>
@@ -202,4 +202,4 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This package is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
