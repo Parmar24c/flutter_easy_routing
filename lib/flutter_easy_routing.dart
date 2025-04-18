@@ -1,5 +1,3 @@
-library flutter_easy_routing;
-
 export 'src/route_base.dart';
 export 'src/route_enums.dart';
 export 'src/app_router.dart';

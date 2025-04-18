@@ -7,7 +7,6 @@ A lightweight, flexible routing solution for Flutter applications that simplifie
 
 ![Flutter Easy Routing](https://github.com/Parmar24c/flutter_easy_routing/blob/main/flutter_easy_routing.png)
 
-
 ## Features
 
 - 🧭 **Type-safe navigation** - No more string-based routes
@@ -193,6 +192,8 @@ context.pushNamed(detailsRoute);
 
 <p align="center">
   🌟 Love this project? Give it a ⭐ on GitHub & show some 💖 — your support means everything!
+  <br>
+  ## 👤 Author : Nayan Parmar
 </p>
 
 ## Contributing
