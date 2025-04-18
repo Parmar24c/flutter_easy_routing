@@ -1,6 +1,6 @@
 # Changelog
 
-## 1.0.0 - 2025-04-18
+## 0.0.1 - 2025-04-18
 
 * Initial release of flutter_easy_routing
 * Added core routing functionality:
