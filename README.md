@@ -5,7 +5,7 @@ A lightweight, flexible routing solution for Flutter applications that simplifie
 [![pub package](https://img.shields.io/pub/v/flutter_easy_routing.svg)](https://pub.dev/packages/flutter_easy_routing)
 [![license](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
-![Flutter Easy Routing](https://github.com/Parmar24c/flutter_easy_routing/blob/main/flutter_easy_routing.png)
+![Flutter Easy Routing](flutter_easy_routing.png)
 
 ## Features
 
