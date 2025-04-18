@@ -46,11 +46,11 @@ import 'package:flutter_easy_routing/flutter_easy_routing.dart';
 
 ```dart
 class Routes extends AppRoutes {
-  const Routes(super.name);
+  const Routes._(super.name);
 
-  static const home = Routes('home');
-  static const profile = Routes('profile');
-  static const settings = Routes('settings');
+  static const home = Routes._('home');
+  static const profile = Routes._('profile');
+  static const settings = Routes._('settings');
 }
 ```
 
