@@ -11,10 +11,6 @@
   - Platform adaptive behavior (Cupertino transitions on iOS)
   - Global route configuration
 
-## 0.0.2
-
-- Minor Changes
-
-## 0.0.3
+## 0.0.4
 
 - Minor Changes

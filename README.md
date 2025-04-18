@@ -22,7 +22,7 @@ Add flutter_easy_routing to your pubspec.yaml:
 
 ```yaml
 dependencies:
-  flutter_easy_routing: ^0.0.2
+  flutter_easy_routing: 
 ```
 
 Then run:

@@ -1,6 +1,6 @@
 name: flutter_easy_routing
 description: "Flutter Easy Routing - Navigation Make Easy - Use it Easy"
-version: 0.0.3
+version: 0.0.4
 # author: Nayan Parmar
 homepage: https://github.com/Parmar24c/flutter_easy_routing
 
@@ -15,6 +15,6 @@ dependencies:
 dev_dependencies:
   flutter_test:
     sdk: flutter
-  flutter_lints: ^5.0.0
+  flutter_lints:
 
 flutter:
