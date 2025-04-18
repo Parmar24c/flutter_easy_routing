@@ -7,6 +7,7 @@ A lightweight, flexible routing solution for Flutter applications that simplifie
 
 ![Flutter Easy Routing](https://github.com/Parmar24c/flutter_easy_routing/blob/main/flutter_easy_routing.png)
 
+
 ## Features
 
 - 🧭 **Type-safe navigation** - No more string-based routes
@@ -31,6 +32,12 @@ Then run:
 flutter pub get
 ```
 
+Import the package:
+
+```dart
+import 'package:flutter_easy_routing/flutter_easy_routing.dart';
+```
+
 ## Basic Usage
 
 ### Setup
@@ -39,11 +46,11 @@ flutter pub get
 
 ```dart
 class Routes extends AppRoutes {
-  const Routes(super.name);
+  const Routes._(super.name);
 
-  static const home = Routes('home');
-  static const profile = Routes('profile');
-  static const settings = Routes('settings');
+  static const home = Routes._('home');
+  static const profile = Routes._('profile');
+  static const settings = Routes._('settings');
 }
 ```
 
@@ -96,13 +103,13 @@ Navigate using context extensions:
 
 ```dart
 // Navigate to a route
-context.push(HomeRoute().route);
+context.push(HomePage().route);
 
 // Navigate to a named route
-context.pushNamed(HomeRoute());
+context.pushNamed(HomePage());
 
 // Replace current route
-context.pushReplacement(ProfileRoute());
+context.pushReplacement(ProfilePage());
 
 // Clear stack and navigate
 context.pushAndRemoveUntil(HomePage(), (route) => route.settings.name == Routes.home.path);
@@ -146,8 +153,6 @@ void main() {
 }
 ```
 
-## Advanced Usage
-
 ### Route with Arguments
 
 Pass arguments with your routes:
@@ -185,6 +190,10 @@ final detailsRoute = CustomRoute(
 
 context.pushNamed(detailsRoute);
 ```
+
+<p align="center">
+  🌟 Love this project? Give it a ⭐ on GitHub & show some 💖 — your support means everything!
+</p>
 
 ## Contributing
 
