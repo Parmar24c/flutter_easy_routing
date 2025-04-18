@@ -193,7 +193,7 @@ context.pushNamed(detailsRoute);
 <p align="center">
   🌟 Love this project? Give it a ⭐ on GitHub & show some 💖 — your support means everything!
   <br>
-  ## 👤 Author : Nayan Parmar
+  ~ 👤 Nayan Parmar
 </p>
 
 ## Contributing
